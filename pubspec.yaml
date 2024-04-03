@@ -1,7 +1,7 @@
 name: basic_snackbar
-description: "Description here"
+description: "basic snackbar by june"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/basic_snackbar
 
 version: 1.0.0+1
 
